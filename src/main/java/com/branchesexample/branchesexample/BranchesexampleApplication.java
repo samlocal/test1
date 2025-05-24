@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BranchesexampleApplication {
 
 	public static void main(String[] args) {
+		System.out.println("fixed");
 		SpringApplication.run(BranchesexampleApplication.class, args);
 	}
 
